@@ -1,0 +1,29 @@
+{
+    "name": "Hausaufgabe temperatur",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v2": "*",
+        "pxt-seeed-temperature": "github:mkleinsb/pxt-seeed-temperature#v0.0.7"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v6.0.41",
+        "tag": "v6.0.41",
+        "commits": "https://github.com/microsoft/pxt-calliope/commits/2f883ce73a808c435afc7787e95215245cb41128",
+        "target": "6.0.41",
+        "pxt": "9.0.18",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
